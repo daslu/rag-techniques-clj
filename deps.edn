@@ -1,0 +1,4 @@
+{:deps {org.scicloj/clay {:mvn/version "2-beta17"}
+        org.scicloj/noj {:mvn/version "2-alpha9.1"}
+        io.github.zmedelis/bosquet {:mvn/version "2024.08.08"}
+        com.constacts/ragtacts {:mvn/version "0.4.1"}}}
